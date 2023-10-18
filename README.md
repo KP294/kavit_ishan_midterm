@@ -1,9 +1,8 @@
-
-Member-2
-Ishan Mehra
+#### Member-2
+### Ishan Mehra
  Hello readers,
            I, Ishan Mehra is going to argue in favour of E-books as I believe that it is a revolutionary development in the world.</p>
-Accessibility
+           Accessibility
           <img src="images/ON-FINGERTIPS.webp">
 
    First and foremost, the invention of e-books which can be assessed via smartphones and tablets has made all the books at our fingertips. People can read them anytime and any where, and this accessibility is really important for students, researchers and avid readers of this busy world who do not have enough time to head to libraries in order to read only.
