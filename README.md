@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Member-2
 Ishan Mehra
  Hello readers,
@@ -33,7 +33,7 @@ Space saving
 
 
 
-=======
+
 # kavit_ishan_midterm
 Debate on E-book vs Physical books.
 
@@ -61,4 +61,5 @@ Furthermore, physical books do not rely on batteries or electronic devices, maki
 In conclusion, physical books are not mere relics of the past; they are indispensable pillars of our cultural identity and literary heritage. They offer a sensory and emotional experience, carry sentimental value, remain accessible to all, and contribute to local economies. 
 
 <img src="images/1.jpg">
->>>>>>> ea5f027245871ce8babc7c2cd180f3ad37d9b069
+
+
