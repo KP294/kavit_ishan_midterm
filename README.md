@@ -1,14 +1,18 @@
-#### Member-2
+# kavit_ishan_midterm
+Debate on E-book vs Physical books.
+
+## Member-1
 ### Ishan Mehra
+
  Hello readers,
  I, Ishan Mehra is going to argue in favour of E-books as I believe that it is a revolutionary development in the world.
+
  # Accessibility
 <img src="images/ON-FINGERTIPS.webp">
 
 First and foremost, the invention of e-books which can be assessed via smartphones and tablets has made all the books at our fingertips. People can read them anytime and any where, and this accessibility is really important for students, researchers and avid readers of this busy world who do not have enough time to head to libraries in order to read only.
 
 # Eco-friendly
-
 <img src="images/SAVE-TREES.jpg">
 
 Furthermore, E-books are environmentally friendly. The production of physical books demands large amount of paper which can rather be saved if we use e-books everywhere from homes to institutions. Concerning this, I searched for the paper consumption each year just for making books in the whole world, and you will not believe that value was around 85 million tonnes of paper.
@@ -17,8 +21,8 @@ Furthermore, E-books are environmentally friendly. The production of physical bo
 <img src="images/ANIMATION.webp">
 
 Another benefit of using E-books is that it enhances learning. Through e-books, students learn by the mediums of 3D diagram, videos, aminations which not only clear concepts but also makes the learning interesting and effective.
-# Space saving
 
+# Space saving
 <img src="images/SPSCE-SAVING.jpg">
 
 Also, E-books are space- efficient. A single device can hold thousands of books which is advantageous to people with less space. E-books allow readers to have entire library with them all the times.
@@ -33,10 +37,8 @@ In conclusion, e-books represent progress. They make knowledge accessible to all
 
 
 
-# kavit_ishan_midterm
-Debate on E-book vs Physical books.
 
-## Member-1
+## Member-2
 ### Kavit patel
 
 hey there, I am Kavit Patel and i am from Gujarat,India.
