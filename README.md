@@ -31,13 +31,6 @@ Also, E-books are space- efficient. A single device can hold thousands of books 
 In conclusion, e-books represent progress. They make knowledge accessible to all, contribute to environmental conservation, foster educational innovation, and enhance convenience.
 
 
-    
-
-
-
-
-
-
 ## Member-2
 ### Kavit patel
 
